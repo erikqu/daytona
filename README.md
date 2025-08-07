@@ -7,7 +7,7 @@
 ![GitHub Release](https://img.shields.io/github/v/release/daytonaio/daytona)
 
 </div>
-
+ 
 &nbsp;
 
 <div align="center">
